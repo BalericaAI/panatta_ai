@@ -76,3 +76,7 @@ def main():
 
     print(generate(tok, model, args.prompt, args.max_new, args.temp,
                    args.top_k))
+
+
+if __name__ == "__main__":
+    main()
