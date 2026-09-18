@@ -1,0 +1,4 @@
+# MLX with the Linux x86_64 CPU backend. On Apple Silicon the same package
+# transparently uses the Metal backend, so this file works on both platforms.
+mlx[cpu]==0.32.2
+numpy>=1.26,<3
