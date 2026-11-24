@@ -1,0 +1,4 @@
+{
+  "name": "panatta_ai — MLX tiny GPT",
+  "install": "python3 -m pip install --user --upgrade pip && python3 -m pip install --user -r requirements.txt"
+}
